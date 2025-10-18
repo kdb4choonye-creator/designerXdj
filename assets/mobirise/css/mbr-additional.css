@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'Material Symbols Rounded', monospace;
-  font-size: 2.6rem;
+  font-size: 2.4rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.25rem;
+  font-size: 3rem;
 }
 .display-2 {
   font-family: 'Material Symbols Rounded', monospace;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 2.08rem;
+    font-size: 1.92rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.82rem;
-    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.68rem;
+    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
