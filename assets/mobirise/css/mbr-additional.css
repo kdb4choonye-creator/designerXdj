@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Share Tech', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1178,7 +1178,7 @@ a {
 .cid-uZXKYUegAY {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/1-1920x1080.png");
+  background-image: url("../../../assets/images/screenshot202025-10-1820183951-1148x816.png");
 }
 .cid-uZXKYUegAY .mbr-fallback-image.disabled {
   display: none;
@@ -1217,7 +1217,7 @@ a {
 .cid-uZXL1nwfID {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/2-1920x1080.png");
+  background-image: url("../../../assets/images/screenshot202025-10-1820183616-1088x727.png");
 }
 .cid-uZXL1nwfID .mbr-fallback-image.disabled {
   display: none;
@@ -1253,7 +1253,7 @@ a {
 .cid-uZXL1Sp7Js {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/1-1920x1080.png");
+  background-image: url("../../../assets/images/imgonline-com-ua-twotoone-ivjzupqcabmwpd-1281x800.jpg");
 }
 .cid-uZXL1Sp7Js .mbr-fallback-image.disabled {
   display: none;
